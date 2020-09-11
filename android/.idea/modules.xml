@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MMRNInterview.iml" filepath="$PROJECT_DIR$/.idea/modules/MMRNInterview.iml" group="MMRNInterview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MMRNInterview/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-76951484/lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-76951484/lottie-react-native.iml" group="MMRNInterview/lottie-react-native" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-571199079/react-native-community_blur.iml" filepath="$PROJECT_DIR$/.idea/modules/-571199079/react-native-community_blur.iml" group="MMRNInterview/react-native-community_blur" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1131231733/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1131231733/react-native-community_masked-view.iml" group="MMRNInterview/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888317058/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/888317058/react-native-gesture-handler.iml" group="MMRNInterview/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-137485583/react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/-137485583/react-native-get-random-values.iml" group="MMRNInterview/react-native-get-random-values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960909222/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-960909222/react-native-reanimated.iml" group="MMRNInterview/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-374430613/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-374430613/react-native-safe-area-context.iml" group="MMRNInterview/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-703758781/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-703758781/react-native-screens.iml" group="MMRNInterview/react-native-screens" />
+    </modules>
+  </component>
+</project>
