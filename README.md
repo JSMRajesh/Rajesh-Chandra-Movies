@@ -21,3 +21,13 @@ During your interview you will need to answer questions about how you found the 
 
 #### Pro tip
 * You'll notice the animated transitions in the app are not very smooth. The animation itself is *not* the problem.
+
+
+
+#### ISSUES Found
+1. Pod file was incorrect, Removed TVOS to make it work
+2. Images are too large, we need to resize image to make it fit
+3. Scroll is lazy. Not smooth
+4. Replaced Scrollview with FlatList for performane improvement and smooth scolling
+5. Loading Movielength in method rather then sending param through **generateMovies()**
+
